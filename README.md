@@ -120,3 +120,8 @@ bash grading.sh    # 3. affiche le score
 ## 📄 Licence
 
 Projet à but pédagogique. Libre de consultation et de réutilisation .
+---
+
+<p align="center">
+  <em>Un conteneur n'est pas de la magie : c'est un processus qu'on a bien isolé.</em>
+</p>
