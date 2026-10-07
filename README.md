@@ -116,4 +116,4 @@ bash grading.sh    # 3. affiche le score
 
 ## 📄 Licence
 
-Projet à but pédagogique. Libre de consultation et de réutilisation avec mention de la source.
+Projet à but pédagogique. Libre de consultation et de réutilisation .
