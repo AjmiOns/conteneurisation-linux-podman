@@ -110,7 +110,10 @@ bash grading.sh    # 3. affiche le score
 
 ## 👤 Auteur
 
-**Ons Ajmi**, étudiante en ingénierie à TEK-UP University.
+**Ons Ajmi**: Cloud Infrastructure Management Engineering student, TEK-UP University, Tunisia
+
+[![GitHub](https://img.shields.io/badge/GitHub-AjmiOns-181717?style=flat-square&logo=github)](https://github.com/AjmiOns)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ons%20Ajmi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ons-ajmi--/)
 
 ---
 
