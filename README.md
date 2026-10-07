@@ -49,8 +49,8 @@ conteneurisation/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/AjmiOns/guide-complet-conteneurisation.git
-cd guide-complet-conteneurisation
+git clone https://github.com/AjmiOns/conteneurisation-linux-podman.git
+cd conteneurisation-linux-podman
 ```
 
 ### 2. Lire les cours
