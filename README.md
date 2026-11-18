@@ -44,8 +44,8 @@ Chaque chapitre contient : schémas explicatifs, glossaire, points clés à rete
 ```text
 conteneurisation/
 ├── 01-Fondations-Linux.pdf
-├── 02-Container-Runtime-OCI.md / .pdf
-├── 03-Podman.md / .pdf
+├── 02-Container-Runtime-OCI.pdf
+├── 03-Podman.pdf
 ├── 04-Docker.pdf
 ├── 04-Docker-corrige.pdf
 ├── Guide_Docker_Gerer_les_conteneurs.pdf
